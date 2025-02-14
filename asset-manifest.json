@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Destination-App/static/css/main.7fa65cc5.css",
+    "main.js": "/Destination-App/static/js/main.ad619afd.js",
+    "static/js/488.9c92ff38.chunk.js": "/Destination-App/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/Destination-App/index.html",
+    "main.7fa65cc5.css.map": "/Destination-App/static/css/main.7fa65cc5.css.map",
+    "main.ad619afd.js.map": "/Destination-App/static/js/main.ad619afd.js.map",
+    "488.9c92ff38.chunk.js.map": "/Destination-App/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fa65cc5.css",
+    "static/js/main.ad619afd.js"
+  ]
+}
